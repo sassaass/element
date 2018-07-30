@@ -1,0 +1,126 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.lei-sec{
+	height: 310px;
+	width: 100vw;
+	border-bottom: 1px solid #ddd;
+	border-top: 1px solid #ddd;
+	margin-top: 10px;
+	padding: 20px 0;
+}
+
+
+.lei-left{
+	padding-left: 15px;
+	width: 115px;
+	height: 310px;
+	float: left;
+	/*overflow: hidden;*/
+}
+.lei-left img{
+	width: 160px;
+	height: 170px;
+}
+
+
+.lei-right{
+	width: 80%;
+	height: 310px;
+	float: right;
+}
+.lei-top{
+	width: 100%;
+	height: 60px;
+} 
+.lei-top h2{
+	width: 80%;
+	font-size: 50px;
+	color: #000;
+	float: left;
+	line-height: 60px;
+}
+.lei-top span{
+	display: block;
+	width: 20%;
+	float: right;
+	line-height: 60px;
+	font-size: 50px;
+	text-align: center;
+}
+
+
+.lei-con{
+	width: 100%;
+	height: 50px;
+}
+.lei-con span{
+	display: block;
+	width: 70%;
+	float: left;
+	line-height: 50px;
+	font-size: 40px;
+	color: #999;
+}
+.lei-con b{
+	width: 30%;
+	height: 100%;
+	display: block;
+	float: right;
+	font-size: 25px;
+	font-style: normal;
+	font-weight: 100;
+	color: #007AFF;
+}
+.lei-con b i{
+	color: #007AFF;
+	font-style: normal;
+	border: 1px solid #007AFF;
+}
+
+
+.lei-bottom{
+	width: 100%;
+	height: 50px;
+}
+.lei-bottom span{
+	display: block;
+	width: 70%;
+	float: left;
+	line-height: 50px;
+	font-size: 40px;
+	color: #999;
+}
+.lei-bottom span i{
+	font-style: normal;
+}
+.lei-bottom b{
+	display: block;
+	width: 30%;
+	float: right;
+	font-size: 30px;
+	font-style: normal;
+	color: #999;
+	font-weight: 100;
+}
+.lei-bottom b i{
+	font-style: normal;
+}
+
+.lei-right p{
+	width: 100%;
+	line-height: 40px;
+	color: #999;
+	font-size: 30px;
+}
+.lei-right p:first-child{
+	margin-top: 5px;
+}
+.lei-foot{
+	/*border-top: 1px solid #ddd;*/
+	margin-top: 5px;
+	height: 65px;
+	line-height: 65px;
+	font-size: 34px;
+}
